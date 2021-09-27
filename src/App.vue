@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Vue logo" src="https://avatars.githubusercontent.com/u/1179735?v=4">
     <HelloWorld msg="狗东西们，Morning Call 了吗"/>
   </div>
 </template>
