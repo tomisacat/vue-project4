@@ -2,8 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Welcome visit my gayhub and fuck me
-      <a href="https://github.com/tomisacat" target="_blank" rel="noopener">嘻嘻嘻</a>.
+   大噶吼，我在三藩开着跑车等你们
     </p>
 
   </div>
