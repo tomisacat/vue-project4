@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      想去纽西兰
+      沪上海参大王
     </p>
 
   </div>
