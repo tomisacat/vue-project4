@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/1.gif">
-    <HelloWorld msg="总结，总结个瘠薄"/>
+    <HelloWorld msg="小冯小冯，无所不能"/>
   </div>
 </template>
 
